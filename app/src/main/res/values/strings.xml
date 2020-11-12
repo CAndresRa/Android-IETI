@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab</string>
+    <string name="message_hint">Enter a message</string>
+    <string name="button_label">send</string>
+</resources>
